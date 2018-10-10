@@ -1,4 +1,4 @@
-package sun.seol;
+/*package sun.seol;
 
 import org.testng.annotations.Test;
 
@@ -15,3 +15,4 @@ public class First {
 		System.out.println("m2");
 	}
 }
+*/

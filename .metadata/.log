@@ -24,3 +24,17 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.eclipse.jface.text 2 0 2018-10-10 16:06:29.257
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-10 17:13:41.685
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-10-10 17:13:41.748
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.testng.eclipse 1 0 2018-10-10 17:14:33.344
+!MESSAGE [TestNGLaunchConfigurationDelegate] Launching:
+  Classpath: C:\Users\suneel\.p2\pool\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar F:\New folder\One\seol\target\test-classes F:\New folder\One\seol\target\classes C:\Users\suneel\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar C:\Users\suneel\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar C:\Users\suneel\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar
+  VMArgs:    -ea
+  Class:     org.testng.remote.RemoteTestNG
+  Args:      -serport 49744 -protocol json -d F:\New folder\One\seol\test-output F:\New folder\One\seol\NewFile.xml
+java -ea -classpath C:\Users\suneel\.p2\pool\plugins\org.testng.eclipse_6.11.0.201703011520\lib\testng-remote.jar:F:\New folder\One\seol\target\test-classes:F:\New folder\One\seol\target\classes:C:\Users\suneel\.m2\repository\org\testng\testng\6.14.3\testng-6.14.3.jar:C:\Users\suneel\.m2\repository\com\beust\jcommander\1.72\jcommander-1.72.jar:C:\Users\suneel\.m2\repository\org\apache-extras\beanshell\bsh\2.0b6\bsh-2.0b6.jar org.testng.remote.RemoteTestNG -serport 49744 -protocol json -d F:\New folder\One\seol\test-output F:\New folder\One\seol\NewFile.xml
