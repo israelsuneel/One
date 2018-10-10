@@ -9,6 +9,7 @@ public class FirstLim {
 	public void m1(){
 		System.out.println("m1");
 		System.out.println("m1");
+		System.out.println("m1");
 	}
 	
 	@Test
